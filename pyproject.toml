@@ -1,0 +1,10 @@
+[project]
+name = "cs446-ece449-mp2-build-your-language-model-from-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "pytest>=9.0.3",
+]
